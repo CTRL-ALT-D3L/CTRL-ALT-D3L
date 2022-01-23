@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @CTRL-ALT-D3L
+- 👀 I’m interested in: VR, Microcontrollers, the Metaverse, NFT's, Cryptocurrencies, Tesla, SpaceX, 3D Printers, Quantum Computing
+- 🌱 I’m currently learning: C++, Python, Javascript, Fusion 360,
+- 💞️ I’m looking to collaborate on: Anything, really (hmu)
+- 📫 How to reach me: shalom@sunday.me
