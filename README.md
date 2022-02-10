@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CTRL-ALT-D3L a young and hungry high-tech enthusiast/entrepreneur
-- 👀 I’m interested in: VR, Microcontrollers, the Metaverse, NFT's, Cryptocurrencies, Tesla, SpaceX, 3D Printers, Quantum Computing
+- 👀 I’m interested in: VR, Microcontrollers, Cryptocurrencies, Tesla, SpaceX, 3D Printers, Quantum Computing
 - 🌱 I’m currently learning: C++, Python, Javascript, Fusion 360, Agrotech
-- 🇮🇱 Based in ISRAEL (startup nation)
+- 🇮🇱 Based in ISRAEL
 - 💞️ I’m looking to collaborate on: Anything, really (hmu)
 - 📫 How to reach me: shalom@sunday.me
